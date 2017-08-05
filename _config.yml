@@ -15,7 +15,7 @@ keep_files:
 
 # Site settings
 title: Adam Gusky | Developer
-subtitle: "A free HTML5 agency template"
+subtitle: "The best site on the internet."
 url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
