@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I've been up to"
+title: "Recent Update"
 author: "Adam Gusky"
 ---
 
